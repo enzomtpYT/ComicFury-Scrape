@@ -19,4 +19,5 @@ Once on the comic profile look at the url and copy everything ***after*** `/comi
 ### Page number (optional)
 
 Once on the comic profile simply look at the statistics of the comic !
+
 ![Stats of comic](https://cdn.discordapp.com/attachments/622744241243684864/1110643758040621056/image.png)
