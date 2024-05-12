@@ -12,7 +12,8 @@ First of all to get needed info you will need to browse to the comic's profile
 
 ### Comic ID
 
-Once on the comic profile look at the url and copy everything ***after*** `/comicprofile.php?url=` !
+Once on the comic profile look at the url and copy everything ***after*** `/comicprofile.php?url=`
+
 ![URL Bar](https://github.com/enzomtpYT/ComicFury-Scrape/assets/40535918/78a2e591-6b3a-4fc0-b32f-ac79fac628dc)
 
 ### Page number (optional)
