@@ -19,4 +19,5 @@ Once on the comic profile look at the url and copy everything ***after*** `/comi
 ### Page number (optional)
 
 Once on the comic profile simply look at the statistics of the comic !
+
 ![Stats of comic](https://github.com/enzomtpYT/ComicFury-Scrape/assets/40535918/2fde1875-11f6-4675-9047-3b511cf6fedc)
