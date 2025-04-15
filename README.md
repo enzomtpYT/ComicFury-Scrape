@@ -2,6 +2,8 @@
 
 An efficient way to scrape entire comics for ComicFury
 
+New version available at https://github.com/enzomtpYT/ComicFury-AutoCBZ it is only available for comics with infinite scrolling on (mostly enabled if author didn't disabled)
+
 ## Usage
 
 To use the script you will need the comic ID and optionally (for faster downloads) the number of pages
